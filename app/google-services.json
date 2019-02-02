@@ -1,0 +1,203 @@
+{
+  "project_info": {
+    "project_number": "359274034582",
+    "firebase_url": "https://farm-application-7d2d2.firebaseio.com",
+    "project_id": "farm-application-7d2d2",
+    "storage_bucket": "farm-application-7d2d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359274034582:android:0d4e6bc4ad625fa8",
+        "android_client_info": {
+          "package_name": "com.admin.farmerguideadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359274034582-lhkjmt0tidgsm91pkbbch41fhb5lgae7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.admin.farmerguideadmin",
+            "certificate_hash": "d864962180b3a3a9735c7c09ce27c069d1fbe465"
+          }
+        },
+        {
+          "client_id": "359274034582-bo6fpo9uv18jsjbfuajhnst5hkcpcsba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHPk7swX3GaNAArYUi_jpE_r3humfVLw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359274034582-bo6fpo9uv18jsjbfuajhnst5hkcpcsba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359274034582:android:38821ff2ec7c4100",
+        "android_client_info": {
+          "package_name": "com.admin.stockadminfarmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359274034582-f7l1pa7pue3padpr2ivt6t0eap848igr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.admin.stockadminfarmapp",
+            "certificate_hash": "d864962180b3a3a9735c7c09ce27c069d1fbe465"
+          }
+        },
+        {
+          "client_id": "359274034582-bo6fpo9uv18jsjbfuajhnst5hkcpcsba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHPk7swX3GaNAArYUi_jpE_r3humfVLw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359274034582-bo6fpo9uv18jsjbfuajhnst5hkcpcsba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359274034582:android:e35eb2c354369aa5",
+        "android_client_info": {
+          "package_name": "com.farm.ngo.farm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359274034582-kl2vo6v2m9e6qmf4sghlrug88n3qkkjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farm.ngo.farm",
+            "certificate_hash": "1951050bde10117282197fca39804b7245daceed"
+          }
+        },
+        {
+          "client_id": "359274034582-aja6l2uc85s4ifur66ml8ip7ne6kbrnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farm.ngo.farm",
+            "certificate_hash": "997cee58335b7109762c5fb0ab3b8b08500c490d"
+          }
+        },
+        {
+          "client_id": "359274034582-0sijfku2di9ss3na144pg4lvus8uir2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farm.ngo.farm",
+            "certificate_hash": "cba5eb040d7d9d25d97d36feb46b340c5b7ed991"
+          }
+        },
+        {
+          "client_id": "359274034582-bo6fpo9uv18jsjbfuajhnst5hkcpcsba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHPk7swX3GaNAArYUi_jpE_r3humfVLw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359274034582-bo6fpo9uv18jsjbfuajhnst5hkcpcsba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359274034582:android:83837e64fc57cbef",
+        "android_client_info": {
+          "package_name": "farm.com.farmerguidestockadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359274034582-f3kq5gqqpvr61chebcdgr72idjo2d0sd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "farm.com.farmerguidestockadmin",
+            "certificate_hash": "997cee58335b7109762c5fb0ab3b8b08500c490d"
+          }
+        },
+        {
+          "client_id": "359274034582-bo6fpo9uv18jsjbfuajhnst5hkcpcsba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHPk7swX3GaNAArYUi_jpE_r3humfVLw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359274034582-bo6fpo9uv18jsjbfuajhnst5hkcpcsba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
