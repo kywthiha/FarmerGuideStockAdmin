@@ -14,14 +14,15 @@
         android:layout_marginTop="146.0dip"
         android:text="Farmer Guide Stock Admin"
         android:layout_alignParentTop="true" />
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="100.0dip"
         android:layout_height="100.0dip"
-        android:layout_marginTop="28.0dip"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        app:srcCompat="@drawable/admin" />
+        android:layout_marginTop="28.0dip"
+        app:srcCompat="@drawable/ic_launcher" />
     <LinearLayout android:gravity="center"
         android:orientation="vertical"
         android:layout_width="fill_parent"

@@ -69,7 +69,7 @@ public class ChangePasswordActivity extends AppCompatActivity {
                     UiUtil.showToast(getApplicationContext(), "Failed,Incorrect old password");
                     return;
                 } else if (newpassword.equals(confirm)) {
-                    ChangePasswordDialog changePasswordDialog=new ChangePasswordDialog(this, newpassword, new ChangePasswordDialog.OnDialogResult() {
+                    ChangePasswordDialog changePasswordDialog=new ChangePasswordDialog(this, this.newPass.getText().toString(), new ChangePasswordDialog.OnDialogResult() {
                         @Override
                         public void finish() {
                             ChangePasswordActivity.this.reference.child("pass").setValue(ChangePasswordActivity.newpassword);
