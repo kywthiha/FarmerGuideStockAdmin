@@ -1,0 +1,3 @@
+# FarmerGuideStockAdmin
+
+password->admin
